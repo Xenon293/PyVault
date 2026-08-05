@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+build/
+dist/
+*.spec
+salt.bin
+secret.key
+vault.check
+vault.txt
+vault2.txt
+data.json
+.vxnotes/

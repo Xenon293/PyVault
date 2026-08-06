@@ -72,4 +72,4 @@ Password Manager/
 
 ## License
 
-Private project — not licensed for public distribution unless otherwise stated.
+Private project — not licensed for public distribution unless otherwise stated..

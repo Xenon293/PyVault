@@ -1,1 +1,1 @@
-"""Model layer for the password manager."""
+"""Pure domain entities and errors for PyVault."""

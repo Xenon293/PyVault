@@ -1,4 +1,5 @@
 .venv/
+.pip-cache/
 __pycache__/
 *.pyc
 .idea/
